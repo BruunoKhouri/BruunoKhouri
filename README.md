@@ -1,20 +1,86 @@
-  <h4 align="center">
-  <img align="center" alt="Brunno Khouri" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/807258604700434432/902644914721009674/download20211002164830.png">
-  <h2 align="center">Hi I'm Brunno  </h2> 
-  
+<h1 align="center">Hi, I'm Brunno Khouri 👋</h1>
 
+<h3 align="center">
+  Full Stack Developer | Angular • .NET • Node.js
+</h3>
 
-  
-<img align="center" alt="coder" width="100%" height="450" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/807258604700434432/902643023945531442/tumblr_d830ccbe48024d3b7600d83f66c07c34_28eb8eaa_500.gif">
+<p align="center">
+  Developer with 7+ years of experience building web applications, working with both frontend and backend technologies.
+</p>
 
+<p align="center">
+  <img 
+    align="center" 
+    alt="Brunno Khouri" 
+    height="150" 
+    style="border-radius:50px;" 
+    src="https://cdn.discordapp.com/attachments/807258604700434432/902644914721009674/download20211002164830.png"
+  />
+</p>
+
+<p align="center">
+  <img 
+    align="center" 
+    alt="coding gif" 
+    width="100%" 
+    height="450" 
+    style="border-radius:50px;" 
+    src="https://cdn.discordapp.com/attachments/807258604700434432/902643023945531442/tumblr_d830ccbe48024d3b7600d83f66c07c34_28eb8eaa_500.gif"
+  />
+</p>
+
+---
+
+## 👨‍💻 About me
+
+- 💼 I'm currently working at **Lugarh**
+- 🚀 I'm a **Full Stack Developer** with experience in **Frontend and Backend**
+- 🧠 I have **7+ years of experience** working with software development
+- 🖥️ Frontend: **Angular, AngularJS, TypeScript, JavaScript, HTML, CSS**
+- ⚙️ Backend: **.NET, C#, Node.js, APIs, SQL/PostgreSQL**
+- 🗄️ Database: **SQL Server, PostgreSQL**
+- 📚 Currently improving my skills in **software architecture, clean code and scalable applications**
+- 💬 Ask me about **Angular, .NET, Node.js, APIs and Full Stack development**
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,dotnet,cs,nodejs,postgres,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/BruunoKhourii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruunoKhouri&layout=compact&langs_count=7&theme=dark"/>    
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=BruunoKhouri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    />
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruunoKhouri&layout=compact&langs_count=7&theme=dark"
+    />
+  </a>
 </div>
 
-- 🔭 I’m currently working on Lugarh
-- 🌱 I’m currently learning AngularJs and 2+
-- 👯 I’m looking to collaborate on Devgames
-- 💬 Ask me about anything
+---
 
+## 🌎 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/brunno-khouri-delpin-borges-b57207364/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+
+<a href="mailto:brunno.k.d.borges@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
