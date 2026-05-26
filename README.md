@@ -57,18 +57,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/BruunoKhourii">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=BruunoKhourii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    />
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruunoKhourii&layout=compact&langs_count=7&theme=dark"
-    />
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/BruunoKhourii"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruunoKhouri&layout=compact&langs_count=7&theme=dark"/> </div>
 
 ---
 
