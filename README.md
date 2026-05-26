@@ -11,16 +11,6 @@
 <p align="center">
   <img 
     align="center" 
-    alt="Brunno Khouri" 
-    height="150" 
-    style="border-radius:50px;" 
-    src="https://cdn.discordapp.com/attachments/807258604700434432/902644914721009674/download20211002164830.png"
-  />
-</p>
-
-<p align="center">
-  <img 
-    align="center" 
     alt="coding gif" 
     width="100%" 
     height="450" 
