@@ -57,17 +57,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img 
-  width="48%" 
-  src="https://github-readme-stats.vercel.app/api?username=BruunoKhouri&show_icons=true&theme=dark"
-/>
-
-<img 
-  width="48%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruunoKhouri&layout=compact&theme=dark"
-/>
-
+  <img 
+    width="60%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BruunoKhouri&theme=dark&hide_border=true"
+  />
 </div>
 ---
 
