@@ -62,6 +62,18 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=BruunoKhouri&theme=dark&hide_border=true"
   />
 </div>
+
+<div align="center">
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BruunoKhouri&theme=dark&hide_border=true"
+  />
+
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruunoKhouri&layout=compact&theme=dark&hide_border=true"
+  />
+</div>
 ---
 
 ## 🌎 Connect with me
